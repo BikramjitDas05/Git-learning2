@@ -1,5 +1,6 @@
 a=2
 b-3
 c =7
-d=a+b+c
+k = 9
+d=a+b+c+k
 print(d)
