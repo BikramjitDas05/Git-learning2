@@ -1,4 +1,5 @@
 a=2
 b-3
-d=a+b
+c =7
+d=a+b+c
 print(d)
